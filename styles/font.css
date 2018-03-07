@@ -1,0 +1,40 @@
+@font-face {
+	font-family: 'Adelle Cyrillic Thin';
+	src: url('../fonts/AdelleCyrillic/AdelleCyrillic-Thin.eot');
+	src: url('../fonts/AdelleCyrillic/AdelleCyrillic-Thin.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/AdelleCyrillic/AdelleCyrillic-Thin.woff') format('woff'),
+	url('../fonts/AdelleCyrillic/AdelleCyrillic-Thin.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Adelle Cyrillic Light';
+	src: url('../fonts/AdelleCyrillic/AdelleCyrillic-Light.eot');
+	src: url('../fonts/AdelleCyrillic/AdelleCyrillic-Light.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/AdelleCyrillic/AdelleCyrillic-Light.woff') format('woff'),
+	url('../fonts/AdelleCyrillic/AdelleCyrillic-Light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Adelle Cyrillic Regular';
+	src: url('../fonts/AdelleCyrillic/AdelleCyrillic.eot');
+	src: url('../fonts/AdelleCyrillic/AdelleCyrillic.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/AdelleCyrillic/AdelleCyrillic.woff') format('woff'),
+	url('../fonts/AdelleCyrillic/AdelleCyrillic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Adelle Cyrillic Bold';
+	src: url('../fonts/AdelleCyrillic/AdelleCyrillic-Bold.eot');
+	src: url('../fonts/AdelleCyrillic/AdelleCyrillic-Bold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/AdelleCyrillic/AdelleCyrillic-Bold.woff') format('woff'),
+	url('../fonts/AdelleCyrillic/AdelleCyrillic-Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
